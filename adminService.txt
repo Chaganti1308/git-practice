@@ -1,2 +1,5 @@
 add and remove users
-changesbthe roles
+change the roles
+manage the databases
+
+closing the connection
